@@ -1,0 +1,12 @@
+count\CountPopularity$MovieReducer.class
+popularity\PopularMovies$MovieMapper.class
+popularity\PopularMovies.class
+average\AveragePopularity$MovieReducer.class
+count\CountPopularity.class
+Q1\PopularMovieCount.class
+popularity\PopularMovies$MovieReducer.class
+average\AveragePopularity$AverageMovieMapper.class
+average\AveragePopularity.class
+Q1\PopularMovieCount$MovieMapper.class
+Q1\PopularMovieCount$MovieReducer.class
+count\CountPopularity$CountMovieMapper.class
